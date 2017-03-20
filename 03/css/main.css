@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1>i{
+    color: deeppink;
+}
+p>i {
+    color: darkcyan
+}
+li>i{
+    color: darkturquoise
+}

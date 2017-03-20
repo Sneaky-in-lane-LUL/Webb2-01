@@ -2,3 +2,10 @@ body {
     margin: 0;
     padding: 0;
 }
+span {
+    background-color: orangered;
+}
+
+span:first-of-type {
+    background-color:lawngreen;
+}

@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+span {
+    background-color: lawngreen;
+}
+
+p:last-of-type span:last-child {
+    background-color:orangered;
+}

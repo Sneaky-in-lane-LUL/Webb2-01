@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+li:nth-child(even){
+    list-style-image: url()
+}
+li:nth-child(odd){
+    
+}
