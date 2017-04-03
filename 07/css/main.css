@@ -2,9 +2,9 @@ body {
     margin: 0;
     padding: 0;
 }
-li:nth-child(even){
-    list-style-image: url()
-}
 li:nth-child(odd){
-    
+    list-style-image: url(/Resurser/Bilder/check.png);
+}
+li:nth-child(even){
+    list-style-image: url(/Resurser/Bilder/cross.png);
 }

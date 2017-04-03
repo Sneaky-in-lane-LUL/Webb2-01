@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    background-color: #6C7A89;
+    color: white;
+}
+td:nth-child(odd) {
+    background-color: #D2D7D3;
+}

@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+th {
+    background-color: #2ECC71;
+    color: white;
+}
+
+tr {
+    border-bottom-color: #2ECC71;
+    border-bottom: 1px solid #2ECC71;
+    
+}
+
+td {
+    background-color: #C8F7C5;
+}
+table {
+    border-collapse: collapse;
+}
